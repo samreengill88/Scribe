@@ -1,8 +1,19 @@
-# React + Vite
+# FreeScribe
+An interactive web application for real-time transcription and translation of audio files.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Feautures
+- Real-Time Audio Processing.
+- Supports uploading of audio files .mp3 and .wav formats.
+- Converts recorded or uploaded audio into text.
+- Supports multi-language transcription and translation for global accessibility.
+- User-friendly interface
+    - Record or Stop Recording with a single click.
+    - Progress indicator showing recording duration.
+    - A clean, responsive design optimized for all device sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## How to run it ?
+- Run 'npm install' in your terminal
+- This will start the application locally on http://localhost:3000.
+
